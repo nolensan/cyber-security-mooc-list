@@ -20,4 +20,14 @@ Cryptography | University of Maryland, College Park | https://www.coursera.org/l
 Usable Security | University of Maryland, College Park | https://www.coursera.org/learn/usable-security
 Hardware Security | University of Maryland, College Park | https://www.coursera.org/learn/hardware-security
 Information Security: Context and Introduction | University of London | https://www.coursera.org/learn/information-security-data
+Cyber Security Economics | Delft University of Technology | https://www.edx.org/course/cyber-security-economics-delftx-secon101x
+Cyber Security Basics: A Hands-on Approach | Universidad Carlos III de Madrid | https://www.edx.org/course/cyber-security-basics-hands-approach-uc3mx-inf-2x
+Network Security | Rochester Institute of Technology | https://www.edx.org/course/network-security-ritx-cyber504x
+Cybersecurity Fundamentals | Rochester Institute of Technology | https://www.edx.org/course/cybersecurity-fundamentals-ritx-cyber501x-0
+Cloud Computing Security | University System of Maryland & University of Maryland University College | https://www.edx.org/course/cloud-computing-security-usmx-university-maryland-university-cc617x
+Cyberwar, Surveillance and Security | University of Adelaide | https://www.edx.org/course/cyberwar-surveillance-security-adelaidex-cyber101x-0
+Computer Forensics | Rochester Institute of Technology | https://www.edx.org/course/computer-forensics-ritx-cyber502x
+Cybersecurity Risk Management | Rochester Institute of Technology | https://www.edx.org/course/cybersecurity-risk-management-ritx-cyber503x
+Quantum Cryptography | Caltech & Delft University of Technology | https://www.edx.org/course/quantum-cryptography-caltechx-delftx-qucryptox
+Wiretaps to Big Data: Privacy and Surveillance in the Age of Interconnection | Cornell University | https://www.edx.org/course/wiretaps-big-data-privacy-surveillance-cornellx-engri1280x
 ... | ... | ...
