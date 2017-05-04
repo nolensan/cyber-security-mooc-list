@@ -30,4 +30,6 @@ Computer Forensics | Rochester Institute of Technology | https://www.edx.org/cou
 Cybersecurity Risk Management | Rochester Institute of Technology | https://www.edx.org/course/cybersecurity-risk-management-ritx-cyber503x
 Quantum Cryptography | Caltech & Delft University of Technology | https://www.edx.org/course/quantum-cryptography-caltechx-delftx-qucryptox
 Wiretaps to Big Data: Privacy and Surveillance in the Age of Interconnection | Cornell University | https://www.edx.org/course/wiretaps-big-data-privacy-surveillance-cornellx-engri1280x
-... | ... | ...
+Intro to Information Security | Georgia Institute of Technology | https://www.udacity.com/course/intro-to-information-security--ud459
+
+Feel free to extend the list. :)
