@@ -1,7 +1,7 @@
-# cyber-security-moocs
+# cyber-security-mooc-list
 List of MOOCs (Massive Open Online Courses) on cyber security related topics.
 
-Although cyber security is becoming more and more important, it is unfortunately the case that many traditional educational institutions fail to provide a timely offer in their portfolio. Unfortunately, it is also the case that many of the few offered study programs are often very deficient in their quality. Current topics of cyber security are not even covered in the curriculum.
+Although cyber security is becoming more and more important, it is unfortunately the case that many traditional educational institutions fail to provide a reasonable offer in their portfolio. Unfortunately, it is also the case that many of the few offered study programs are often very deficient in their quality. Current topics of cyber security are not even covered in the curriculum.
 
 One solution to the aforementioned problem are massive open online courses (MOOCs) that often provide high quality educational courses to everyone with an internet connection.
 
